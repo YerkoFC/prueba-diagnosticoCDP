@@ -1,0 +1,7 @@
+Pregunta N°3: ¿En qué consiste la exclusión mutua?
+
+Es un proceso que consiste en exluir temporalmente los demas procesos de un programa, con el fin de que entre solo un proceso en la denominada sección crítica, asegurando así la integridad del sistema, evitando graves fallos en dicho este.
+
+Pregunta N°4: ¿Qué es un sockets?
+
+Es un metodo de comunicación bi-direccional entre un cliente-servidor, en el cual existe transferencia de paquetes(información). Para el establecimiento de dicha comunicación entre estos, es necesario que se indique el puerto por el cual se estarán comunicando, protocolo, y también las respectivas direcciones IP de los agentes.
